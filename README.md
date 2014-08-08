@@ -1,4 +1,4 @@
-# Biblioteca Java para acessar a [API do Cobre Gratis](https://github.com/BielSystems/cobregratis-api)
+# Biblioteca Java para acessar a [API do Cobre Gratis](https://github.com/CobreGratis/cobregratis-api)
 
 ## Dependências (Incluidas também na pasta lib)
 
@@ -10,7 +10,7 @@
 * [Campos](http://suporte.cobregratis.com.br/hc/pt-br/articles/201644783-Campos-que-podem-ser-usados-na-criação-de-boletos)
 
 ## Download
-[cobregratis-java-1.2.1.jar](https://github.com/BielSystems/cobregratis-java/raw/master/dist/cobregratis-java-1.2.1.jar)
+[cobregratis-java-1.2.1.jar](https://github.com/CobreGratis/cobregratis-java/raw/master/dist/cobregratis-java-1.2.1.jar)
 
 ## Utilizando
 ### Exemplo para pegar um determinado boleto
